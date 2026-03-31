@@ -1,0 +1,104 @@
+Alder
+
+Crab Apple
+CBA
+Common Ash
+CNA CASH
+Silver Birch
+SRB SBIRCH
+Downy Birch
+DYB DBIRCH
+European Beech
+EBEECH
+Box
+BOX
+Wild Cherry
+WDC WCHERRY
+Bird Cherry
+BDC BCHERRY
+Blackthorn
+BKTHORN
+Wych Elm
+WELM
+Smooth-leaved Elm
+ELM
+Common Hawthorn
+CHAWTHORN
+Midland Hawthorn
+MDH MHAWTHORN
+Common Hazel
+CHAZ
+European Hornbeam
+EHORNBEAM
+European Holly
+EHOLLY
+Common Juniper
+CNJ CJUNIPER
+Small-leaved Lime
+
+Large-leaved Lime
+
+Field Maple
+FDM
+Pedunculate Oak
+POAK
+Sessile Oak
+SOAK
+Scots Pine
+SSP
+Aspen
+APEN
+Black Poplar
+BKP BPOPLAR
+European Rowan
+ENR EROWAN
+Common Whitebeam
+CNW CWHITEBEAM
+Service Tree
+SVICET
+Wild Service Tree
+WSERVICET
+Strawberry Tree
+SYT
+Bay Willow
+BYW BWILLOW
+Crack Willow
+CKW CWILLOW
+White Willow
+WWILLOW
+Almond-leaved Willow
+
+European Yew
+ENY EYEW
+Alder Buckthorn
+ARB ABUCKTHORN
+Purging Buckthorn
+PGB PBUCKTHORN
+Elder
+EDER
+Common Dogwood
+CND CDOGWOOD
+Rock Whitebeam
+RKW RWHITEBEAM
+Sea-buckthorn
+
+Spindle
+SPIND
+Sallow
+SLLOW
+Grey Willow
+GYW GWILLOW
+Purple Willow
+PWILLOW
+Common Osier
+CNO COSIER
+Eared Willow
+EDW EWILLOW
+Guelder Rose
+GRR
+Wayfaring tree
+WGT
+Common Privet
+CNP CPRIVET
+Plot's Elm
+PSE PELM
